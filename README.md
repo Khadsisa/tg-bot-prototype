@@ -1,5 +1,5 @@
 # tg-bot-prototype
-easy tg-bot for customer acquisition or test task for developers
+easy tg-bot for user acquisition or test task for developers
 
 ТГ-бот для помощи юным разработчикам
 
